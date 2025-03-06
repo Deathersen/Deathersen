@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deathersen. I'm 14 years old. I'm from Russia
-- 👀 I’m interested in gameDev, programming of microcontrollers and simple applications
-- 🌱 I’m currently learning C#/C++ and Arduino
+- 👋 Hi, I’m @Deathstorm
+- 👀 I’m interested in gameDev.
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
